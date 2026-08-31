@@ -1,0 +1,73 @@
+about:
+  description: Warp is an agentic development environment, born out of the terminal.
+  license: AGPL-3.0
+  homepage: https://warp.dev
+  head: 86cfeb9
+  archived: false
+  latestVersion: tui-screenshots-app5029
+  collectedAt: 2026-08-31T05:46:04Z
+timeline:
+  created: 2021-07-08
+  lastCommit: 2026-08-30
+  lastRelease: 2026-07-28
+popularity:
+  star: 64670
+  watcher: 348
+  fork: 5491
+  release: 56
+  contributor: 173
+  pullRequest: 2362
+  issue: 10887
+language:
+  Rust: 64119539
+  Shell: 454587
+  Python: 308992
+  Objective-C: 145744
+  PowerShell: 104634
+  HTML: 52633
+  JavaScript: 35236
+  Inno Setup: 27041
+  Tree-sitter Query: 24819
+  WGSL: 23290
+  Metal: 17100
+  Dockerfile: 12205
+  Nix: 10920
+  TypeScript: 5657
+  C: 1193
+  Makefile: 711
+  Handlebars: 410
+  RenderScript: 45
+totalLine: 65344756
+recent:
+  last30d:
+    since: 2026-08-01
+    release: 0
+    mergedPR: 302
+    openPR: 438
+    closedIssue: 53
+    openIssue: 136
+    commit: 263
+  last90d:
+    since: 2026-06-02
+    release: 12
+    mergedPR: 1290
+    openPR: 925
+    closedIssue: 326
+    openIssue: 484
+    commit: 1285
+  last180d:
+    since: 2026-03-04
+    release: 56
+    mergedPR: 2272
+    openPR: 1306
+    closedIssue: 1002
+    openIssue: 1192
+    commit: 2264
+  last360d:
+    since: 2025-09-05
+    release: 56
+    mergedPR: 2273
+    openPR: 1306
+    closedIssue: 2057
+    openIssue: 1620
+    commit: 2264
