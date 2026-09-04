@@ -1,26 +1,28 @@
 about:
-  description: Warp is an agentic development environment, born out of the terminal.
+  description:
+  |
+    Warp is an agentic development environment, born out of the terminal.
   license: AGPL-3.0
   homepage: https://warp.dev
-  head: ec6085e
+  head: 17f4320
   archived: false
   latestVersion: tui-screenshots-app5029
-  collectedAt: 2026-09-04T04:43:03Z
+  collectedAt: 2026-09-04T19:42:51Z
 timeline:
   created: 2021-07-08
   lastCommit: 2026-09-04
   lastRelease: 2026-07-28
 popularity:
-  star: 64788
+  star: 64803
   watcher: 350
-  fork: 5503
+  fork: 5506
   release: 56
-  contributor: 173
-  pullRequest: 2419
-  issue: 10905
+  contributor: 174
+  pullRequest: 4775
+  issue: 10906
 language:
-  Rust: 64421427
-  Shell: 467704
+  Rust: 64425723
+  Shell: 467584
   Python: 308992
   Objective-C: 145744
   PowerShell: 104634
@@ -37,37 +39,63 @@ language:
   Makefile: 711
   Handlebars: 410
   RenderScript: 45
-totalLine: 65659761
+totalBytes: 65663937
 recent:
   last30d:
     since: 2026-08-05
     release: 0
-    mergedPR: 275
-    openPR: 453
-    closedIssue: 62
+    mergedPR: 278
+    openPR: 471
+    closedIssue: 64
     openIssue: 126
-    commit: 294
+    commit: 0
+  last60d:
+    since: 2026-07-06
+    release: 1
+    mergedPR: 880
+    openPR: 757
+    closedIssue: 143
+    openIssue: 281
+    commit: 0
   last90d:
     since: 2026-06-06
     release: 6
-    mergedPR: 1274
-    openPR: 922
-    closedIssue: 310
+    mergedPR: 1277
+    openPR: 940
+    closedIssue: 312
     openIssue: 444
-    commit: 1316
+    commit: 0
   last180d:
     since: 2026-03-08
     release: 56
-    mergedPR: 2303
-    openPR: 1343
-    closedIssue: 1001
-    openIssue: 1189
-    commit: 2295
+    mergedPR: 2306
+    openPR: 1361
+    closedIssue: 1004
+    openIssue: 1188
+    commit: 0
   last360d:
     since: 2025-09-09
     release: 56
-    mergedPR: 2304
-    openPR: 1343
-    closedIssue: 2029
-    openIssue: 1597
-    commit: 2295
+    mergedPR: 2307
+    openPR: 1361
+    closedIssue: 2031
+    openIssue: 1596
+    commit: 0
+  last720d:
+    since: 2024-09-14
+    release: 56
+    mergedPR: 2314
+    openPR: 1361
+    closedIssue: 3344
+    openIssue: 2355
+    commit: 2305
+total:
+  release: 56
+  mergedPR: 2337
+  openPR: 1361
+  closedIssue: 7073
+  openIssue: 3833
+  commit: 2305
+---
+---
+
