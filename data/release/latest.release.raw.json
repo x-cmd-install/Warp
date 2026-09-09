@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 84851,
       "digest": "sha256:5dcfba41f2f26bf955ea948edbc22f089387acbc81e43e667ddafc553d3ebdf9",
-      "download_count": 513,
+      "download_count": 518,
       "created_at": "2026-07-28T21:49:06Z",
       "updated_at": "2026-07-28T21:49:06Z",
       "browser_download_url": "https://github.com/warpdotdev/warp/releases/download/tui-screenshots-app5029/tui_dark.png"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 61361,
       "digest": "sha256:2200b2210cfb5f611e57e23e75a05753c5f3694995479bbb2045558d77bda037",
-      "download_count": 187,
+      "download_count": 191,
       "created_at": "2026-07-28T21:49:06Z",
       "updated_at": "2026-07-28T21:49:07Z",
       "browser_download_url": "https://github.com/warpdotdev/warp/releases/download/tui-screenshots-app5029/tui_light.png"
