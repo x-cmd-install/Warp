@@ -2,12 +2,12 @@ about:
   description: "Warp is an agentic development environment, born out of the terminal."
   license: AGPL-3.0
   homepage: https://warp.dev
-  head: b61e936
+  head: c12e213
   archived: false
   latestVersion: "tui-screenshots-app5029"
   latestRelease: "tui-screenshots-app5029"
   latestPrerelease: "v0.2026.06.09.19.54.dev_00"
-  collectedAt: 2026-09-10T05:45:31Z
+  collectedAt: 2026-09-10T17:36:07Z
 timeline:
   created: 2021-07-08
   lastCommit: 2026-09-10
@@ -15,16 +15,16 @@ timeline:
   lastRelease: 2026-07-28
   lastPrerelease: 2026-06-09
 popularity:
-  star: 64919
+  star: 64933
   watcher: 351
-  fork: 5521
+  fork: 5523
   release: 56
   contributor: 175
-  pullRequest: 4846
-  issue: 10924
+  pullRequest: 4853
+  issue: 10930
 language:
-  Rust: 64855969
-  Shell: 468549
+  Rust: 64896789
+  Shell: 468538
   Python: 308992
   Objective-C: 145744
   PowerShell: 104634
@@ -41,72 +41,72 @@ language:
   Makefile: 711
   Handlebars: 410
   RenderScript: 45
-totalBytes: 66095148
+totalBytes: 66135957
 recent:
   last30d:
     since: 2026-08-11
     release: 0
-    mergedPR: 266
-    openPR: 393
-    closedIssue: 56
-    openIssue: 111
-    commit: 0
+    mergedPR: 268
+    openPR: 396
+    closedIssue: 58
+    openIssue: 115
+    commit: 264
   last60d:
     since: 2026-07-12
     release: 1
-    mergedPR: 823
-    openPR: 719
-    closedIssue: 133
-    openIssue: 273
-    commit: 0
+    mergedPR: 825
+    openPR: 721
+    closedIssue: 135
+    openIssue: 277
+    commit: 828
   last90d:
     since: 2026-06-12
     release: 1
-    mergedPR: 1221
-    openPR: 914
-    closedIssue: 269
-    openIssue: 406
-    commit: 0
+    mergedPR: 1223
+    openPR: 916
+    closedIssue: 271
+    openIssue: 410
+    commit: 1270
   last180d:
     since: 2026-03-14
     release: 56
-    mergedPR: 2352
-    openPR: 1367
-    closedIssue: 988
-    openIssue: 1189
-    commit: 0
+    mergedPR: 2354
+    openPR: 1368
+    closedIssue: 990
+    openIssue: 1193
+    commit: 2345
   last360d:
     since: 2025-09-15
     release: 56
-    mergedPR: 2353
-    openPR: 1367
-    closedIssue: 1989
-    openIssue: 1585
-    commit: 0
+    mergedPR: 2355
+    openPR: 1368
+    closedIssue: 1991
+    openIssue: 1589
+    commit: 2345
   last720d:
     since: 2024-09-20
     release: 56
-    mergedPR: 2360
-    openPR: 1367
-    closedIssue: 3341
-    openIssue: 2359
-    commit: 2350
+    mergedPR: 2362
+    openPR: 1368
+    closedIssue: 3343
+    openIssue: 2363
+    commit: 2352
 total:
   release: 56
-  mergedPR: 2383
-  openPR: 1367
-  closedIssue: 7081
-  openIssue: 3843
-  commit: 2350
+  mergedPR: 2385
+  openPR: 1368
+  closedIssue: 7083
+  openIssue: 3847
+  commit: 2352
 ---
 path: /home/runner/.x-repo/github.com/warpdotdev/Warp
-collectedAt: 2026-09-10T05:46:08Z
+collectedAt: 2026-09-10T17:36:56Z
 loc:
   Rust:
-    code: 1420366
-    comments: 62589
-    blanks: 156943
-    files: 4048
+    code: 1421462
+    comments: 62580
+    blanks: 157023
+    files: 4050
   Json:
     code: 31636
     comments: 0
@@ -118,7 +118,7 @@ loc:
     blanks: 1052
     files: 30
   Toml:
-    code: 4233
+    code: 4236
     comments: 293
     blanks: 355
     files: 91
@@ -224,19 +224,19 @@ loc:
     files: 1
   Markdown:
     code: 0
-    comments: 64146
-    blanks: 21594
-    files: 658
+    comments: 64434
+    blanks: 21643
+    files: 659
   Text:
     code: 0
     comments: 7965
     blanks: 93
     files: 12
 total:
-  code: 1502953
-  comments: 227062
-  blanks: 192238
-  files: 5898
+  code: 1504052
+  comments: 227358
+  blanks: 192369
+  files: 5901
 ---
 
 ---
