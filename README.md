@@ -38,22 +38,22 @@ Total: **1,486,562** lines of code across **4254** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 64,992 · **Forks**: 5,538 · **Open issues**: 10,937 · **Contributors**: 175
+- **Stars**: 65,010 · **Forks**: 5,538 · **Open issues**: 10,941 · **Contributors**: 175
 
 ## Totals (cumulative)
 
-- **Releases**: 56 · **Merged PRs**: 2403 · **Open PRs**: 1388 · **Closed issues**: 7092 · **Open issues**: 3845 · **Commits**: 2370
+- **Releases**: 56 · **Merged PRs**: 2403 · **Open PRs**: 1394 · **Closed issues**: 7093 · **Open issues**: 3848 · **Commits**: 2370
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-14 | 0 | 245 | 311 | 52 | 107 | 210 |
-| last60d | 2026-07-15 | 1 | 762 | 699 | 128 | 258 | 687 |
-| 90d | 2026-06-15 | 1 | 1213 | 928 | 257 | 406 | 1194 |
-| last180d | 2026-03-17 | 56 | 2372 | 1388 | 979 | 1189 | 2363 |
-| 360d | 2025-09-18 | 56 | 2373 | 1388 | 1978 | 1580 | 2363 |
-| last720d | 2024-09-23 | 56 | 2380 | 1388 | 3350 | 2362 | 2370 |
+| 30d | 2026-08-15 | 0 | 242 | 306 | 52 | 107 | 210 |
+| last60d | 2026-07-16 | 1 | 740 | 689 | 127 | 256 | 687 |
+| 90d | 2026-06-16 | 1 | 1200 | 926 | 250 | 398 | 1194 |
+| last180d | 2026-03-18 | 56 | 2372 | 1394 | 979 | 1188 | 2363 |
+| 360d | 2025-09-19 | 56 | 2373 | 1394 | 1972 | 1580 | 2363 |
+| last720d | 2024-09-24 | 56 | 2380 | 1394 | 3350 | 2365 | 2370 |
 
 ## Release assets
 
@@ -71,4 +71,4 @@ Install metadata for Warp lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260913.yml` · 2026-09-13T05:39:28Z._
+_Snapshot: `data/card/260914.yml` · 2026-09-14T05:54:05Z._
