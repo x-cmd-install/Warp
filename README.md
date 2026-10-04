@@ -37,22 +37,22 @@ Total: **1,515,529** lines of code across **4323** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 65,348 · **Forks**: 5,608 · **Open issues**: 11,029 · **Contributors**: 177
+- **Stars**: 65,354 · **Forks**: 5,616 · **Open issues**: 11,030 · **Contributors**: 177
 
 ## Totals (cumulative)
 
-- **Releases**: 55 · **Merged PRs**: 2508 · **Open PRs**: 1429 · **Closed issues**: 7128 · **Open issues**: 3901 · **Commits**: 2474
+- **Releases**: 55 · **Merged PRs**: 2508 · **Open PRs**: 1432 · **Closed issues**: 7128 · **Open issues**: 3902 · **Commits**: 2474
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-03 | 0 | 155 | 164 | 24 | 102 | 173 |
-| last60d | 2026-08-04 | 0 | 464 | 566 | 91 | 230 | 499 |
-| 90d | 2026-07-05 | 0 | 1058 | 833 | 178 | 378 | 1089 |
-| last180d | 2026-04-06 | 55 | 2475 | 1429 | 938 | 1196 | 2466 |
-| 360d | 2025-10-08 | 55 | 2478 | 1429 | 1863 | 1588 | 2466 |
-| last720d | 2024-10-13 | 55 | 2485 | 1429 | 3343 | 2406 | 2474 |
+| 30d | 2026-09-04 | 0 | 136 | 153 | 23 | 101 | 173 |
+| last60d | 2026-08-05 | 0 | 445 | 562 | 90 | 225 | 499 |
+| 90d | 2026-07-06 | 0 | 1051 | 833 | 173 | 376 | 1089 |
+| last180d | 2026-04-07 | 55 | 2475 | 1432 | 938 | 1195 | 2466 |
+| 360d | 2025-10-09 | 55 | 2478 | 1432 | 1854 | 1583 | 2466 |
+| last720d | 2024-10-14 | 55 | 2485 | 1432 | 3341 | 2407 | 2474 |
 
 ## Improve this data
 
@@ -63,4 +63,4 @@ Install metadata for Warp lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261003.yml` · 2026-10-03T05:59:12Z._
+_Snapshot: `data/card/261004.yml` · 2026-10-04T06:30:09Z._
