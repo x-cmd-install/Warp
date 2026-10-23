@@ -14,15 +14,15 @@ x install Warp
 
 ## Code insight
 
-Total: **1,556,786** lines of code across **4405** files in the top 5 languages.
+Total: **1,558,665** lines of code across **4405** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Rust | 1,486,389 | 63,082 | 161,317 | 4147 |
+| Rust | 1,488,267 | 63,092 | 161,400 | 4147 |
 | Json | 32,572 | 0 | 2 | 137 |
 | Python | 5,951 | 383 | 1,054 | 30 |
 | Graphql | 4,399 | 0 | 898 | 1 |
-| Toml | 4,219 | 292 | 351 | 90 |
+| Toml | 4,220 | 292 | 351 | 90 |
 
 ## Source
 
@@ -33,26 +33,26 @@ Total: **1,556,786** lines of code across **4405** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v0.2026.06.09.19.54.dev_00` (2026-06-03)
-- **Last commit**: 2026-10-21
+- **Last commit**: 2026-10-22
 
 ## Popularity
 
-- **Stars**: 65,624 · **Forks**: 5,688 · **Open issues**: 11,107 · **Contributors**: 179
+- **Stars**: 65,638 · **Forks**: 5,690 · **Open issues**: 11,113 · **Contributors**: 179
 
 ## Totals (cumulative)
 
-- **Releases**: 55 · **Merged PRs**: 2612 · **Open PRs**: 1511 · **Closed issues**: 7147 · **Open issues**: 3960 · **Commits**: 2579
+- **Releases**: 55 · **Merged PRs**: 2619 · **Open PRs**: 1516 · **Closed issues**: 7148 · **Open issues**: 3965 · **Commits**: 2586
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-22 | 0 | 133 | 151 | 26 | 109 | 145 |
-| last60d | 2026-08-23 | 0 | 349 | 353 | 72 | 205 | 351 |
-| 90d | 2026-07-24 | 0 | 762 | 744 | 143 | 339 | 791 |
-| last180d | 2026-04-25 | 55 | 2576 | 1510 | 895 | 1165 | 2570 |
-| 360d | 2025-10-27 | 55 | 2582 | 1510 | 1745 | 1582 | 2570 |
-| last720d | 2024-11-01 | 55 | 2588 | 1510 | 3327 | 2450 | 2579 |
+| 30d | 2026-09-23 | 0 | 138 | 153 | 26 | 112 | 152 |
+| last60d | 2026-08-24 | 0 | 343 | 353 | 72 | 208 | 358 |
+| 90d | 2026-07-25 | 0 | 756 | 743 | 139 | 342 | 798 |
+| last180d | 2026-04-26 | 55 | 2583 | 1515 | 892 | 1167 | 2577 |
+| 360d | 2025-10-28 | 55 | 2589 | 1515 | 1738 | 1584 | 2577 |
+| last720d | 2024-11-02 | 55 | 2595 | 1515 | 3327 | 2452 | 2586 |
 
 ## Improve this data
 
@@ -63,4 +63,4 @@ Install metadata for Warp lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261022.yml` · 2026-10-22T05:31:26Z._
+_Snapshot: `data/card/261023.yml` · 2026-10-23T05:35:46Z._
