@@ -37,22 +37,22 @@ Total: **1,558,665** lines of code across **4405** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 65,667 · **Forks**: 5,695 · **Open issues**: 11,117 · **Contributors**: 179
+- **Stars**: 65,684 · **Forks**: 5,699 · **Open issues**: 11,122 · **Contributors**: 179
 
 ## Totals (cumulative)
 
-- **Releases**: 55 · **Merged PRs**: 2619 · **Open PRs**: 1518 · **Closed issues**: 7148 · **Open issues**: 3969 · **Commits**: 2586
+- **Releases**: 55 · **Merged PRs**: 2619 · **Open PRs**: 1516 · **Closed issues**: 7149 · **Open issues**: 3973 · **Commits**: 2586
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-24 | 0 | 135 | 150 | 26 | 112 | 152 |
-| last60d | 2026-08-25 | 0 | 330 | 340 | 69 | 208 | 358 |
-| 90d | 2026-07-26 | 0 | 755 | 742 | 138 | 345 | 798 |
-| last180d | 2026-04-27 | 55 | 2583 | 1517 | 884 | 1167 | 2577 |
-| 360d | 2025-10-29 | 55 | 2589 | 1517 | 1733 | 1588 | 2577 |
-| last720d | 2024-11-03 | 55 | 2595 | 1517 | 3326 | 2456 | 2586 |
+| 30d | 2026-09-25 | 0 | 128 | 145 | 27 | 111 | 152 |
+| last60d | 2026-08-26 | 0 | 311 | 327 | 69 | 210 | 358 |
+| 90d | 2026-07-27 | 0 | 736 | 717 | 136 | 339 | 798 |
+| last180d | 2026-04-28 | 55 | 2511 | 1509 | 864 | 1161 | 2577 |
+| 360d | 2025-10-30 | 55 | 2589 | 1515 | 1727 | 1590 | 2577 |
+| last720d | 2024-11-04 | 55 | 2595 | 1515 | 3325 | 2458 | 2586 |
 
 ## Improve this data
 
@@ -63,4 +63,4 @@ Install metadata for Warp lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261024.yml` · 2026-10-24T05:21:43Z._
+_Snapshot: `data/card/261025.yml` · 2026-10-25T05:22:28Z._
