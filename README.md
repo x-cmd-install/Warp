@@ -37,22 +37,22 @@ Total: **1,559,030** lines of code across **4405** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 65,753 · **Forks**: 5,723 · **Open issues**: 11,139 · **Contributors**: 180
+- **Stars**: 65,783 · **Forks**: 5,735 · **Open issues**: 11,146 · **Contributors**: 180
 
 ## Totals (cumulative)
 
-- **Releases**: 55 · **Merged PRs**: 2633 · **Open PRs**: 1519 · **Closed issues**: 7151 · **Open issues**: 3988 · **Commits**: 2600
+- **Releases**: 55 · **Merged PRs**: 2634 · **Open PRs**: 1521 · **Closed issues**: 7152 · **Open issues**: 3994 · **Commits**: 2601
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-29 | 0 | 138 | 141 | 23 | 113 | 135 |
-| last60d | 2026-08-30 | 0 | 306 | 295 | 54 | 210 | 313 |
-| 90d | 2026-07-31 | 0 | 632 | 674 | 118 | 341 | 667 |
-| last180d | 2026-05-02 | 50 | 2358 | 1471 | 746 | 1046 | 2387 |
-| 360d | 2025-11-03 | 55 | 2603 | 1518 | 1708 | 1596 | 2591 |
-| last720d | 2024-11-08 | 55 | 2609 | 1518 | 3322 | 2467 | 2600 |
+| 30d | 2026-09-30 | 0 | 134 | 141 | 23 | 114 | 136 |
+| last60d | 2026-08-31 | 0 | 303 | 294 | 53 | 216 | 314 |
+| 90d | 2026-08-01 | 0 | 630 | 675 | 118 | 341 | 668 |
+| last180d | 2026-05-03 | 49 | 2348 | 1465 | 740 | 1042 | 2388 |
+| 360d | 2025-11-04 | 55 | 2604 | 1520 | 1705 | 1602 | 2592 |
+| last720d | 2024-11-09 | 55 | 2610 | 1520 | 3323 | 2472 | 2601 |
 
 ## Improve this data
 
@@ -63,4 +63,4 @@ Install metadata for Warp lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261029.yml` · 2026-10-29T06:41:08Z._
+_Snapshot: `data/card/261030.yml` · 2026-10-30T06:34:31Z._
