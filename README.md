@@ -37,22 +37,22 @@ Total: **1,560,292** lines of code across **4407** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 65,794 · **Forks**: 5,743 · **Open issues**: 11,148 · **Contributors**: 180
+- **Stars**: 65,810 · **Forks**: 5,747 · **Open issues**: 11,149 · **Contributors**: 180
 
 ## Totals (cumulative)
 
-- **Releases**: 55 · **Merged PRs**: 2638 · **Open PRs**: 1519 · **Closed issues**: 7154 · **Open issues**: 3994 · **Commits**: 2605
+- **Releases**: 55 · **Merged PRs**: 2638 · **Open PRs**: 1520 · **Closed issues**: 7154 · **Open issues**: 3995 · **Commits**: 2605
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-01 | 0 | 129 | 134 | 23 | 110 | 140 |
-| last60d | 2026-09-01 | 0 | 300 | 284 | 51 | 211 | 318 |
-| 90d | 2026-08-02 | 0 | 630 | 670 | 119 | 339 | 672 |
-| last180d | 2026-05-04 | 48 | 2332 | 1451 | 707 | 1013 | 2392 |
-| 360d | 2025-11-05 | 55 | 2608 | 1518 | 1702 | 1599 | 2596 |
-| last720d | 2024-11-10 | 55 | 2614 | 1518 | 3324 | 2472 | 2605 |
+| 30d | 2026-10-02 | 0 | 120 | 133 | 22 | 105 | 104 |
+| last60d | 2026-09-02 | 0 | 293 | 271 | 49 | 209 | 270 |
+| 90d | 2026-08-03 | 0 | 611 | 665 | 117 | 335 | 574 |
+| last180d | 2026-05-05 | 47 | 2294 | 1440 | 690 | 999 | 2179 |
+| 360d | 2025-11-06 | 55 | 2608 | 1519 | 1697 | 1599 | 2596 |
+| last720d | 2024-11-11 | 55 | 2614 | 1519 | 3323 | 2473 | 2605 |
 
 ## Improve this data
 
@@ -63,4 +63,4 @@ Install metadata for Warp lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261031.yml` · 2026-10-31T06:27:52Z._
+_Snapshot: `data/card/261101.yml` · 2026-11-01T07:02:28Z._
