@@ -37,22 +37,22 @@ Total: **1,566,694** lines of code across **4419** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 65,901 · **Forks**: 5,760 · **Open issues**: 11,172 · **Contributors**: 180
+- **Stars**: 65,914 · **Forks**: 5,764 · **Open issues**: 11,172 · **Contributors**: 180
 
 ## Totals (cumulative)
 
-- **Releases**: 55 · **Merged PRs**: 2657 · **Open PRs**: 1530 · **Closed issues**: 7156 · **Open issues**: 4016 · **Commits**: 2624
+- **Releases**: 55 · **Merged PRs**: 2657 · **Open PRs**: 1529 · **Closed issues**: 7156 · **Open issues**: 4016 · **Commits**: 2624
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-08 | 0 | 107 | 120 | 11 | 107 | 123 |
-| last60d | 2026-09-08 | 0 | 268 | 240 | 47 | 215 | 289 |
-| 90d | 2026-08-09 | 0 | 562 | 620 | 106 | 330 | 593 |
-| last180d | 2026-05-11 | 39 | 2143 | 1378 | 615 | 949 | 2198 |
-| 360d | 2025-11-12 | 55 | 2627 | 1529 | 1667 | 1604 | 2615 |
-| last720d | 2024-11-17 | 55 | 2632 | 1529 | 3309 | 2486 | 2624 |
+| 30d | 2026-10-09 | 0 | 98 | 115 | 11 | 102 | 123 |
+| last60d | 2026-09-09 | 0 | 256 | 236 | 45 | 210 | 289 |
+| 90d | 2026-08-10 | 0 | 549 | 606 | 106 | 328 | 593 |
+| last180d | 2026-05-12 | 38 | 2106 | 1372 | 605 | 936 | 2198 |
+| 360d | 2025-11-13 | 55 | 2627 | 1528 | 1663 | 1601 | 2615 |
+| last720d | 2024-11-18 | 55 | 2632 | 1528 | 3305 | 2486 | 2624 |
 
 ## Improve this data
 
@@ -63,4 +63,4 @@ Install metadata for Warp lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261107.yml` · 2026-11-07T06:41:55Z._
+_Snapshot: `data/card/261108.yml` · 2026-11-08T06:47:49Z._
